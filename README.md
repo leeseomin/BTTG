@@ -1,6 +1,13 @@
 # BTTG : "Back To The Geometry" Art project 
 
 
+### BTTG 2
+
+<img src="https://github.com/leeseomin/BTTG/blob/main/ART/2h.png" width="2000">    
+
+  <br/>  <br/> 
+  
+  
 
 
 ### BTTG 5
