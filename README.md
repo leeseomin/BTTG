@@ -10,6 +10,14 @@
   <br/>  <br/> 
   
   
+### BTTG 6
+
+<img src="https://github.com/leeseomin/BTTG/blob/main/ART/6.png" width="2000">    
+
+  <br/>  <br/> 
+  
+  
+
 
 ### BTTG 7
 
