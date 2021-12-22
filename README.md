@@ -33,6 +33,13 @@
   <br/>  <br/> 
   
   
+### BTTG 8
+
+<img src="https://github.com/leeseomin/BTTG/blob/main/ART/8.png" width="2000">    
+
+  <br/>  <br/> 
+  
+  
 
 ### BTTG 15 : Will to live
 
